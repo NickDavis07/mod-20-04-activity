@@ -12,6 +12,7 @@ function App() {
       <div className="container">
         <Outlet />
       </div>
+      <h1>hello world</h1>
       <Footer />
     </div>
   );
